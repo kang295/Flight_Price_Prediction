@@ -7,7 +7,7 @@ The task of predicting flight fares is a classical time-series forecasting probl
 <img width="564" alt="Diagram" src="https://github.com/kang295/Flight_Price_Prediction/assets/71005886/908a7d06-4259-47e0-816d-bc962375ebed">
 
 ## Live App Demo 👀
-![](gifsicle -b demovideo.gif -O3 -o demovideo.gif)
+![](demovideo.gif)
 
 ## Python Libraries
 - Pandas
