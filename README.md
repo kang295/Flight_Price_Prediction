@@ -1,12 +1,12 @@
-# Flight_Price_Prediction
+# Flight_Price_Prediction 🛫
 
-## Purpose
+## Goal
 The task of predicting flight fares is a classical time-series forecasting problem that has been tackled by several popular flight booking platforms, including Google Flights, Skyscanner, and Hopper, through the use of machine learning algorithms. This project endeavors to **develop a robust ML model that can accurately predict the cost of flight tickets**.
 
-## Project Diagram
+## Project Diagram 📔
 <img width="564" alt="Diagram" src="https://github.com/kang295/Flight_Price_Prediction/assets/71005886/908a7d06-4259-47e0-816d-bc962375ebed">
 
-## Live App Demo
+## Live App Demo 👀
 https://github.com/kang295/Flight_Price_Prediction/assets/71005886/55194d70-cd9d-4269-9cc1-034f316ff66a
 
 ## Python Libraries
