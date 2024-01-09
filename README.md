@@ -11,15 +11,12 @@ In the dynamic domain of air travel, accurately predicting flight prices is cruc
 - **Benchmarking:** The approach is benchmarked against existing solutions from top flight booking platforms, ensuring competitive performance.
 
 ## Project Diagram 📔
-Below is a comprehensive diagram illustrating the workflow and architecture of flight price prediction model:
 <img width="564" alt="Diagram" src="https://github.com/kang295/Flight_Price_Prediction/assets/71005886/908a7d06-4259-47e0-816d-bc962375ebed">
 
 ## Live App Demo 👀
-Experience the model in action through the live demo:
 ![](demovideo4.gif)
 
 ## Python Libraries Utilized
-
 This project employs a variety of Python libraries, each serving a specific role in data processing and model development:
 
 - **Pandas & Numpy:** For efficient data manipulation and numerical computations.
