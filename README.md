@@ -25,6 +25,7 @@ This project employs a variety of Python libraries, each serving a specific role
 
 ## Model Accuracy
 The following screenshot highlights the accuracy of a predictive model. These metrics are crucial in understanding the performance and reliability of our solution:
+
 <img width="846" alt="Screenshot 2024-01-09 at 11 28 16 AM" src="https://github.com/kang295/Flight_Price_Prediction/assets/71005886/82bf896d-58d1-4f45-85a2-e8a6ffb1df3e">
 
 ## Reference: Skillcate
